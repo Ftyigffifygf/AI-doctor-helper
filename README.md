@@ -136,7 +136,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ### ☎️ Contact
 
-Built by \[your name or GitHub handle].
+Built by \Girish .
 Feel free to open issues or reach out via GitHub for questions, support, or collaboration!
 
 ---
