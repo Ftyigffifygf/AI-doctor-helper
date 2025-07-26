@@ -1,4 +1,5 @@
-# AI Doctor Helper for Windows
+# Create README.md for project
+readme_content = """# AI Doctor Helper for Windows
 
 This project is a fully-featured Windows application that provides AI-powered healthcare diagnostics, imaging analysis, and secure patient management. It integrates MONAI bundles, Hugging Face datasets, signal-based ECG models, and federated learning using NVFLARE.
 
@@ -69,3 +70,9 @@ AI-Doctor-Helper-Complete/
 ## License
 
 MIT License
+"""
+
+with open(f"{project_name}/README.md", "w") as f:
+    f.write(readme_content)
+
+print("Created README.md")
